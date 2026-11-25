@@ -13,9 +13,8 @@ Half Subtractor:
 •	Borrow = A' . B
 
 ### Files to be Created
-File name	Purpose
-half_add_sub.v	Arithmetic-circuit RTL
-half_add_sub_tb.v	Stimulus and VCD generation
+<img width="2169" height="201" alt="RTL Files and Their Purposes" src="https://github.com/user-attachments/assets/5515b3ca-ee73-465b-a0d1-0f22605cf012" />
+
 
 ### Verilog Program
 ```
